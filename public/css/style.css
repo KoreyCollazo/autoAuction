@@ -116,7 +116,7 @@ main {
   border-radius: 25px;
   text-align: center;
   border: black 5px;
-  height: 366px;
+  height: auto;
   margin-bottom: 30px;
 }
 
